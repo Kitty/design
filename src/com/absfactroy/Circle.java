@@ -6,9 +6,9 @@ package com.absfactroy;
  * @author lzy
  * @date 2018-8-3
  */
-public class Cicle implements Shape {
+public class Circle implements Shape {
     @Override
     public void draw() {
-        System.out.println("Inside cicle::draw() method.");
+        System.out.println("Inside circle::draw() method.");
     }
 }
