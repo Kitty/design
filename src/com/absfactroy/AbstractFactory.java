@@ -1,4 +1,5 @@
 package com.absfactroy;
+
 /**
  * 抽象工厂方法
  *
