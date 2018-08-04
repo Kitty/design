@@ -7,7 +7,7 @@ package com.singleton;
  * @date 2018-8-4
  */
 public class SingletonPatternDemo {
-    public static void main(String[]args){
+    public static void main(String[] args) {
         SingleObject object = SingleObject.getInstance();
 
         object.showMessage();
