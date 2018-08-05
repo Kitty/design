@@ -13,6 +13,5 @@ public interface Iteam {
 
     public float price();
 
-    class Coke extends ColdDrink {
-    }
+
 }
