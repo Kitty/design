@@ -12,4 +12,7 @@ public interface Iteam {
     public Packing packing();
 
     public float price();
+
+    class Coke extends ColdDrink {
+    }
 }

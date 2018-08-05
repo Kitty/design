@@ -6,7 +6,7 @@ package com.Builder;
  * @author lzy
  * @date 2018-8-5
  */
-public abstract class ColeDrink implements Iteam {
+public abstract class ColdDrink implements Iteam {
     @Override
     public Packing packing() {
         return new Bottle();
