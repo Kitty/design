@@ -11,5 +11,5 @@ public interface Iteam {
 
     public Packing packing();
 
-    public void price();
+    public float price();
 }
