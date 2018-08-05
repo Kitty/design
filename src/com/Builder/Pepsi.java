@@ -6,14 +6,14 @@ package com.Builder;
  * @author lzy
  * @date 2018-8-5
  */
-public class Coke extends ColdDrink {
+public class Pepsi extends ColdDrink {
     @Override
     public float price() {
-        return 30.0f;
+        return 31.0f;
     }
 
     @Override
     public String name() {
-        return "coke";
+        return "pepsi";
     }
 }
