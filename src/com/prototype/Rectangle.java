@@ -13,6 +13,6 @@ public class Rectangle extends Shap {
 
     @Override
     void draw() {
-        System.out.println();
+        System.out.println("Inside Rectangle::draw() method.");
     }
 }
