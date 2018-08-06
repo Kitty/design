@@ -30,8 +30,7 @@ public abstract class Shap implements Cloneable {
 
     @Override
     protected Object clone() throws CloneNotSupportedException {
-        Object clone = null;
-        clone = super.clone();
-        return clone();
+
+        return super.clone();
     }
 }
