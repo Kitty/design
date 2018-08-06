@@ -8,7 +8,7 @@ package com.prototype;
  */
 public abstract class Shap implements Cloneable {
     private String id;
-    private String type;
+    protected String type;
 
     abstract void draw();
 
